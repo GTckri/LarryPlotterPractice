@@ -6,3 +6,4 @@
 * Larry Plotter y malwareando la ciudad
 * Larry Plotter la orden del Unix
 * Larry Plotter hackerino imperial
+* Larry Plotter the Mortal Comic 
