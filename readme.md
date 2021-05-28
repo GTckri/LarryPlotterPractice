@@ -2,4 +2,4 @@
 
 Estos libros cuentan una historia de un Hacker Magico.
 
-**Ivan Ceca**
+**Ivan Ceca** Larry no me gusta
